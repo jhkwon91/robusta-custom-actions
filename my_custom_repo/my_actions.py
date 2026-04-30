@@ -4,7 +4,6 @@ from robusta.api import (
     action,
     MarkdownBlock,
 )
-from hikaru.model.rel_1_26.v1 import Deployment
 from kubernetes import client
 
 
